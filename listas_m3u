@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://cr7v.short.gy/MeuInsta@mano_limah"
+#EXTM3U
 
-#EXTINF:-1 tvg-id="Discovery Science HD.pt" tvg-name="Discovery Science HD tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais Abertos",Discovery Science HD
+#EXTINF:-1 tvg-id="Discovery Science HD.pt" tvg-name="Discovery Science HD tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="DOCUMENTARIOS",Discovery Science HD
 https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
